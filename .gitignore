@@ -36,3 +36,7 @@ Temporary Items
 
 #local web server
 server.sh
+
+## ignoring mp4 files as they wll be hosted elsewhere
+*.mp4
+
