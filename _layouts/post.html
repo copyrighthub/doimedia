@@ -6,11 +6,13 @@ layout: main
     {% if page.img %}
     <div class="page-cover-image">
       <figure>
-        <video height="400" controls="yes" autoplay="yes">
-          <source src={{ "http://doimediaassets.copyrighthub.org/" | append : page.img}} type="video/mp4">
-          Your browser does not support HTML5 video.
-          </source>
-        </video>
+        <div align="center">
+          <video height="400" controls="yes" autoplay="yes">
+            <source src={{ "http://doimediaassets.copyrighthub.org/" | append : page.img}} type="video/mp4">
+            Your browser does not support HTML5 video.
+            </source>
+          </video>
+        </div>
         {% if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}
