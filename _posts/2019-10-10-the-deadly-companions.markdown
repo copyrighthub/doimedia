@@ -5,7 +5,7 @@ date: 2019-10-10 03:00:00 +0300
 description: The Deadly Companions is a 1961 American Western film directed by Sam Peckinpah. # Add post description (optional)
 img: deadlycomp.mp4 # Add image post (optional)
 thumb: deadlycompanions.jpg
-tags: [Programming, Learn] # add tag
+tags: # add tag
 ---
 The Deadly Companions is a 1961 American Western film directed by Sam Peckinpah and starring Maureen O'Hara, Brian Keith, Steve Cochran, and Chill Wills. Based on the novel of the same name by A. S. Fleischman, the film is about an ex-army officer who accidentally kills a woman's son, and tries to make up for it by escorting the funeral procession through dangerous Indian territory. The Deadly Companions was Sam Peckinpah's motion picture directorial debut.
 
