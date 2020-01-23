@@ -8,10 +8,12 @@ thumb: johndoe.jpg
 tags:  # add tag
 ---
 
-A Farewell to Arms is a 1932 American pre-Code romance drama film directed by Frank Borzage and starring Helen Hayes, Gary Cooper, and Adolphe Menjou. Based on the 1929 semi-autobiographical novel A Farewell to Arms by Ernest Hemingway, with a screenplay by Oliver H.P. Garrett and Benjamin Glazer, the film is about a tragic romantic love affair between an American ambulance driver and an English nurse in Italy during World War I. The film received Academy Awards for Best Cinematography and Best Sound, and was nominated for Best Picture and Best Art Direction.
+Meet John Doe is a 1941 American comedy-drama film directed and produced by Frank Capra, and starring Gary Cooper and Barbara Stanwyck. 
 
-In 1960, the film entered the public domain in the United States because the last claimant, United Artists, did not renew its copyright registration in the 28th year after publication.
+The film is about a "grassroots" political campaign created unwittingly by a newspaper columnist with the involvement of a hired homeless man and pursued by the paper's wealthy owner.
 
-The original Broadway play starred Glenn Anders and Elissa Landi.
+It became a box office hit and was nominated for an Academy Award for Best Story. It was ranked #49 in AFI's 100 Years ... 100 Cheers. 
+
+In 1969, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.
 
 Source: Wikipedia

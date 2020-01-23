@@ -8,10 +8,12 @@ thumb: farewelltoarms.jpg
 tags:  # add tag
 ---
 
-A Farewell to Arms is a 1932 American pre-Code romance drama film directed by Frank Borzage and starring Helen Hayes, Gary Cooper, and Adolphe Menjou. Based on the 1929 semi-autobiographical novel A Farewell to Arms by Ernest Hemingway, with a screenplay by Oliver H.P. Garrett and Benjamin Glazer, the film is about a tragic romantic love affair between an American ambulance driver and an English nurse in Italy during World War I. The film received Academy Awards for Best Cinematography and Best Sound, and was nominated for Best Picture and Best Art Direction.
+Kansas City Confidential is a 1952 American film noir and crime film directed by Phil Karlson starring John Payne and Coleen Gray. The film was released in the United Kingdom as The Secret Four. Karlson and Payne teamed a year later for 99 River Street, another film noir, followed by Hell's Island, a film noir in color.
 
-In 1960, the film entered the public domain in the United States because the last claimant, United Artists, did not renew its copyright registration in the 28th year after publication.
+This film is now in the public domain in home video and Metro-Goldwyn-Mayer for theatrical, TV and Internet.
 
-The original Broadway play starred Glenn Anders and Elissa Landi.
+Kansas City Confidential was the only film made by Edward Small's short-lived Associated Players and Producers, a company formed by Small, Sol Lesser and Sam Briskin. It was the first of a 13-movie deal Small signed with United Artists in 1952, with ten to be made in the first year. John Payne said he owned 25% of the film.
+
+The movie originally was called Kansas City 117, the title based on a police code. Small bought the title Kansas City Confidential off John Gait and Lee Montgomery. It was the first contemporary crime drama Small made after a series of swashbucklers.
 
 Source: Wikipedia

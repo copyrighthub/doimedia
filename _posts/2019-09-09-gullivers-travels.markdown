@@ -8,10 +8,11 @@ thumb: farewelltoarms.jpg
 tags:  # add tag
 ---
 
-A Farewell to Arms is a 1932 American pre-Code romance drama film directed by Frank Borzage and starring Helen Hayes, Gary Cooper, and Adolphe Menjou. Based on the 1929 semi-autobiographical novel A Farewell to Arms by Ernest Hemingway, with a screenplay by Oliver H.P. Garrett and Benjamin Glazer, the film is about a tragic romantic love affair between an American ambulance driver and an English nurse in Italy during World War I. The film received Academy Awards for Best Cinematography and Best Sound, and was nominated for Best Picture and Best Art Direction.
+Gulliver's Travels is a 1939 American cel-animated Technicolor feature film produced by Max Fleischer and directed by Dave Fleischer for Fleischer Studios. 
 
-In 1960, the film entered the public domain in the United States because the last claimant, United Artists, did not renew its copyright registration in the 28th year after publication.
+Released to cinemas in the United States on December 22, 1939 by Paramount Pictures, the story is a very loose adaptation of Jonathan Swift's 18th century novel of the same name, specifically the first part which tells the story of Lilliput and Blefuscu, and centers around an explorer who helps a small kingdom who declared war after an argument over a wedding song. 
 
-The original Broadway play starred Glenn Anders and Elissa Landi.
+The film was Fleischer Studios' first feature-length animated film, as well as the second animated feature film produced by an American studio after Walt Disney Productions' Snow White and the Seven Dwarfs, as Paramount had commissioned the feature in response to the success of that film. 
 
+The sequences for the film were directed by Seymour Kneitel, Willard Bowsky, Tom Palmer, Grim Natwick, William Henning, Roland Crandall, Thomas Johnson, Robert Leffingwell, Frank Kelling, Winfield Hoskins, and Orestes Calpini.
 Source: Wikipedia

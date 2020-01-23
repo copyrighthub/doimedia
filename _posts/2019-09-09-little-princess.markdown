@@ -8,10 +8,10 @@ thumb: farewelltoarms.jpg
 tags:  # add tag
 ---
 
-A Farewell to Arms is a 1932 American pre-Code romance drama film directed by Frank Borzage and starring Helen Hayes, Gary Cooper, and Adolphe Menjou. Based on the 1929 semi-autobiographical novel A Farewell to Arms by Ernest Hemingway, with a screenplay by Oliver H.P. Garrett and Benjamin Glazer, the film is about a tragic romantic love affair between an American ambulance driver and an English nurse in Italy during World War I. The film received Academy Awards for Best Cinematography and Best Sound, and was nominated for Best Picture and Best Art Direction.
+The Little Princess is a 1939 American drama film directed by Walter Lang. The screenplay by Ethel Hill and Walter Ferris is loosely based on the novel A Little Princess by Frances Hodgson Burnett. The film was the first Shirley Temple movie to be filmed completely in Technicolor. It was also her last major success as a child star.
 
-In 1960, the film entered the public domain in the United States because the last claimant, United Artists, did not renew its copyright registration in the 28th year after publication.
+Although it maintained the novel's Victorian London setting, the film introduced several new characters and storylines and used the Second Boer War and the Siege of Mafeking as a backdrop to the action. Temple and Arthur Treacher had a musical number together, performing the song "Knocked 'Em in the Old Kent Road". Temple also appeared in an extended ballet sequence. The film's ending was drastically different from the book.
 
-The original Broadway play starred Glenn Anders and Elissa Landi.
+In 1968, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.
 
 Source: Wikipedia
