@@ -4,7 +4,7 @@ title: Gulliver's Travels
 date: 2019-09-09 00:00:00 +0300
 description: A Farewell to Arms is a 1932 American pre-Code romance drama film directed by Frank Borzage. # Add post description (optional)
 img: gulliver.mp4 # Add image post (optional)
-thumb: farewelltoarms.jpg
+thumb: gulliver.jpg
 tags:  # add tag
 ---
 
